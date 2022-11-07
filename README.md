@@ -2,7 +2,7 @@
 
 The MUG dataset used in paper [MUG: Interactive Multimodal Grounding on User Interfaces](https://arxiv.org/abs/2209.15099)
 ```
-@inproceedings{li2020mug,
+@inproceedings{li2022mug,
       author    = {Li, Tao and Li, Gang and Zheng, Jingjie and Wang, Purple and Li, Yang},
       title     = {MUG: Interactive Multimodal Grounding on User Interfaces},
       booktitle = {arXiv},
