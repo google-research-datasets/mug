@@ -19,4 +19,10 @@ The MUG dataset used in paper [MUG: Interactive Multimodal Grounding on User Int
 
 ---
 
+V1.1 updates:
+* Corrected example filter to be consistent with our report in the paper (in terms of number of examples).
+* Corrected training data generation.
+
+---
+
 For more information, please [contact us](tlinlp@google.com)
